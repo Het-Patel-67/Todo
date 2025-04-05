@@ -1,2 +1,2 @@
 # Todo
-# In this project, I make a todo list using react .
+ In this project, I make a todo list using react .
